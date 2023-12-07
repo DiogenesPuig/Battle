@@ -1,2 +1,2 @@
 # Battle
-juego mio(?
+Juego simple creado durante la cursada del secundario.
